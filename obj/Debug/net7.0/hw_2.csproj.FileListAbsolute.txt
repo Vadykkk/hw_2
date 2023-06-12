@@ -1,0 +1,15 @@
+D:\homework_2\hw_2\bin\Debug\net7.0\hw_2.exe
+D:\homework_2\hw_2\bin\Debug\net7.0\hw_2.deps.json
+D:\homework_2\hw_2\bin\Debug\net7.0\hw_2.runtimeconfig.json
+D:\homework_2\hw_2\bin\Debug\net7.0\hw_2.dll
+D:\homework_2\hw_2\bin\Debug\net7.0\hw_2.pdb
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.csproj.AssemblyReference.cache
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.AssemblyInfoInputs.cache
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.AssemblyInfo.cs
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.csproj.CoreCompileInputs.cache
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.dll
+D:\homework_2\hw_2\obj\Debug\net7.0\refint\hw_2.dll
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.pdb
+D:\homework_2\hw_2\obj\Debug\net7.0\hw_2.genruntimeconfig.cache
+D:\homework_2\hw_2\obj\Debug\net7.0\ref\hw_2.dll
